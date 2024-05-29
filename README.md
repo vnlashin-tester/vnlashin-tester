@@ -1,9 +1,9 @@
 # Hi! My name is Vladimir
 
 ## About Me
-I am a Software Test Engineer with more than 3 years of experience. 
-I specialize in ensuring the quality and reliability of software products through thorough testing. 
-Here is a short list of my skills:
+I am a Software Test Engineer with more than 3 years of experience. <br> 
+I specialize in ensuring the quality and reliability of software products through thorough testing. <br>
+Here is a short list of my skills: <br>
 
 ### Skills
 - Functional testing

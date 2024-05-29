@@ -23,9 +23,12 @@ Here is a short list of my skills: <br>
 ### Examples of My Work
 Due to commercial restrictions on my projects, I have used open sources as a basis for my work examples:
 
-- [Example Project 1](link_to_example_project_1): Description of the project and your contributions.
-- [Example Project 2](link_to_example_project_2): Description of the project and your contributions.
-- [Example Project 3](link_to_example_project_3): Description of the project and your contributions.
+- [Example Project 1](under_construction.html): The example of UI tests via Robot Framework.
+- [Example Project 2](under_construction.html): The example of UI tests via Selenium.
+- [Example Project 3](under_construction.html): The example of UI tests via Playwright.
+- [Example Project 4](under_construction.html): The examples of API-test en scripts via Postman.
+- [Example Project 4](under_construction.html): The examples of SQL-tests via MySQL.
+
 
 ## Contacts
 - [LinkedIn](https://www.linkedin.com/in/vnlashin)

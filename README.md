@@ -37,10 +37,10 @@ Due to commercial restrictions on my projects, I have used open sources as a bas
 - [Email](mailto:vnlashin@gmail.com)
 
 ## Skills:
-<img src="../vnlashin-tester/img/logo/selenium.svg" alt="logo_selenium" width="40" height="40">
-<img src="..//vnlashin-tester/img/logo/rfw.png" alt="logo_rfw" width="40" height="40">
-<img src="..//vnlashin-tester/img/logo/playwright.png" alt="logo_playwright" width="40" height="40">
-<img src="../vnlashin-tester/img/logo/postman.svg" alt="logo_postman" width="40" height="40">
-<img src="../vnlashin-tester/img/logo/python.svg" alt="logo_python" width="40" height="40">
-<img src="../vnlashin-tester/img/logo/jira.png" alt="logo_jira" width="40" height="70">
-<img src="../vnlashin-tester/img/logo/istqb.png" alt="logo_istqb" width="40" height="40">
+<img src="img/logo/selenium.svg" alt="logo_selenium" width="40" height="40">
+<img src="img/logo/rfw.png" alt="logo_rfw" width="40" height="40">
+<img src="img/logo/playwright.png" alt="logo_playwright" width="40" height="40">
+<img src="img/logo/postman.svg" alt="logo_postman" width="40" height="40">
+<img src="img/logo/python.svg" alt="logo_python" width="40" height="40">
+<img src="img/logo/jira.png" alt="logo_jira" width="40" height="70">
+<img src="img/logo/istqb.png" alt="logo_istqb" width="40" height="40">

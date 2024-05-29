@@ -35,3 +35,5 @@ Due to commercial restrictions on my projects, I have used open sources as a bas
 ## Contacts
 - [LinkedIn](https://www.linkedin.com/in/vnlashin)
 - [Email](mailto:vnlashin@gmail.com)
+
+## Skills:

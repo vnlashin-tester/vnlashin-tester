@@ -37,9 +37,15 @@ Due to commercial restrictions on my projects, I have used open sources as a bas
 - [Email](mailto:vnlashin@gmail.com)
 
 ## Skills:
-<img src="img/logo/selenium.svg" alt="logo_selenium" width="45" height="45">
-<img src="img/logo/rfw.png" alt="logo_rfw" width="60" height="60">
-<img src="img/logo/playwright.png" alt="logo_playwright" width="50" height="50">
-<img src="img/logo/postman.svg" alt="logo_postman" width="50" height="50">
-<img src="img/logo/python.svg" alt="logo_python" width="50" height="50">
-<img src="img/logo/istqb.png" alt="logo_istqb" width="70" height="70">
+<div style="display:flex; justify-content: center;">
+  <img src="img/logo/selenium.svg" alt="logo_selenium" width="45px" height="45px" style="margin-right: 10px;">
+  <img src="img/logo/rfw.png" alt="logo_rfw" width="60" height="60" style="margin-right: 10px;">
+  <img src="img/logo/playwright.png" alt="logo_playwright" width="50" height="50" style="margin-right: 10px;">
+  <img src="img/logo/postman.svg" alt="logo_postman" width="50" height="50" style="margin-right: 10px;">
+  <img src="img/logo/python.svg" alt="logo_python" width="50" height="50" style="margin-right: 10px;">
+  <img src="img/logo/istqb.png" alt="logo_istqb" width="70" height="70" style="margin-right: 10px;">
+</div>
+
+
+
+

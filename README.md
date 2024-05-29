@@ -30,7 +30,7 @@ Due to commercial restrictions on my projects, I have used open sources as a bas
 - [Example Project 4](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html): The examples of SQL-tests via MySQL.
 
 ### I was certified by ISTQB and I also have several other certificates:
-- [Page with Certificates](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html))
+- [Page with Certificates](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html)
 
 ## Contacts
 - [LinkedIn](https://www.linkedin.com/in/vnlashin)

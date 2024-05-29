@@ -1,26 +1,30 @@
 # Hi! My name is Vladimir
 
-## I am a Software Test engineer with more than 3 years of experience.
-### Here is a short list of my skills:
- - Functional testing
- - Integration and system testing
- - Regression testing with writing autotests (Robot Framework, Selenium, Playwright)
- - API testing (Postman, SOAP UI)
- - SQL - testing (MySQL)
- - Usability testing
- - ERP testing
- - Acceptance testing
- - Writing test artefacts
- - Writing and testing user scripts
+## About Me
+I am a Software Test Engineer with more than 3 years of experience. I specialize in ensuring the quality and reliability of software products through thorough testing. Here is a short list of my skills:
 
-### Here you can download my resume:
-___
+### Skills
+- Functional testing
+- Integration and system testing
+- Regression testing with writing autotests (Robot Framework, Selenium, Playwright)
+- API testing (Postman, SOAP UI)
+- SQL testing (MySQL)
+- Usability testing
+- ERP testing
+- Acceptance testing
+- Writing test artefacts
+- Writing and testing user scripts
 
-### Here are examples of my work:
-(due to the fact that all projects had commercial restrictions, I took open sources as a basis)
-____
+### Resume
+[Download my resume](link_to_your_resume) 
 
+### Examples of My Work
+Due to commercial restrictions on my projects, I have used open sources as a basis for my work examples:
+
+- [Example Project 1](link_to_example_project_1): Description of the project and your contributions.
+- [Example Project 2](link_to_example_project_2): Description of the project and your contributions.
+- [Example Project 3](link_to_example_project_3): Description of the project and your contributions.
 
 ## Contacts
-- [LinkedIn](www.linkedin.com/in/vnlashin)
+- [LinkedIn](https://www.linkedin.com/in/vnlashin)
 - [Email](mailto:vnlashin@gmail.com)

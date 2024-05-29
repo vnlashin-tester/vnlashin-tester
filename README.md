@@ -42,5 +42,4 @@ Due to commercial restrictions on my projects, I have used open sources as a bas
 <img src="img/logo/playwright.png" alt="logo_playwright" width="50" height="50">
 <img src="img/logo/postman.svg" alt="logo_postman" width="50" height="50">
 <img src="img/logo/python.svg" alt="logo_python" width="50" height="50">
-<img src="img/logo/jira.png" alt="logo_jira" width="50" height="140">
 <img src="img/logo/istqb.png" alt="logo_istqb" width="70" height="70">

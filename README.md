@@ -37,7 +37,7 @@ Due to commercial restrictions on my projects, I have used open sources as a bas
 - [Email](mailto:vnlashin@gmail.com)
 
 ## Skills:
-<img src="img/logo/selenium.svg" alt="logo_selenium" width="50" height="50">
+<img src="img/logo/selenium.svg" alt="logo_selenium" width="45" height="45">
 <img src="img/logo/rfw.png" alt="logo_rfw" width="50" height="50">
 <img src="img/logo/playwright.png" alt="logo_playwright" width="50" height="50">
 <img src="img/logo/postman.svg" alt="logo_postman" width="50" height="50">

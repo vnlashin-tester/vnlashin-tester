@@ -37,4 +37,10 @@ Due to commercial restrictions on my projects, I have used open sources as a bas
 - [Email](mailto:vnlashin@gmail.com)
 
 ## Skills:
-<img src="img/logo/selenium.svg" alt="Логотип Selenium" width="40" height="40">
+<img src="img/logo/selenium.svg" alt="logo_selenium" width="40" height="40">
+<img src="img/logo/Robot-framework-logo.png" alt="logo_rfw" width="40" height="40">
+<img src="img/logo/playwright.png" alt="logo_playwright" width="40" height="40">
+<img src="img/logo/postman.svg" alt="logo_postman" width="40" height="40">
+<img src="img/logo/python-seeklogo.svg" alt="logo_python" width="40" height="40">
+<img src="img/logo/jira-logo-png-transparent.png.png" alt="logo_jira" width="40" height="70">
+<img src="img/logo/ISTQB-logo.png" alt="logo_istqb" width="40" height="40">

@@ -23,7 +23,7 @@ Here is a short list of my skills: <br>
 ### Examples of My Work
 Due to commercial restrictions on my projects, I have used open sources as a basis for my work examples:
 
-- [Example Project 1](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html)): The example of UI tests via Robot Framework.
+- [Example Project 1](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html): The example of UI tests via Robot Framework.
 - [Example Project 2](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html): The example of UI tests via Selenium.
 - [Example Project 3](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html): The example of UI tests via Playwright.
 - [Example Project 4](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html): The examples of API-test en scripts via Postman.

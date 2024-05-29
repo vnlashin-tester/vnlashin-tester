@@ -37,3 +37,4 @@ Due to commercial restrictions on my projects, I have used open sources as a bas
 - [Email](mailto:vnlashin@gmail.com)
 
 ## Skills:
+<img src="img/logo/selenium.svg" alt="Логотип Selenium" width="40" height="40">

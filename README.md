@@ -18,7 +18,7 @@ Here is a short list of my skills: <br>
 - Writing and testing user scripts
 
 ### Resume
-[Download my resume](link_to_your_resume) 
+[Download my resume](CV_Lashin_Tester_eng.pdf) 
 
 ### Examples of My Work
 Due to commercial restrictions on my projects, I have used open sources as a basis for my work examples:

@@ -38,13 +38,13 @@ Due to commercial restrictions on my projects, I have used open sources as a bas
 
 ## Skills:
 <div style="display:flex; justify-content: center;">
-  <img src="img/logo/selenium.svg" alt="logo_selenium" width="50px" height="50px" style="margin-right: 120px;">
-  <img src="img/logo/rfw.png" alt="logo_rfw" width="50" height="50" style="margin-right: 120px;">
-  <img src="img/logo/playwright.png" alt="logo_playwright" width="50" height="50" style="margin-right: 120px;">
-  <img src="img/logo/postman.svg" alt="logo_postman" width="50" height="50" style="margin-right: 120px;">
-  <img src="img/logo/mysql.png" alt="logo_mysql" width="70" height="50" style="margin-right: 120px;">
-  <img src="img/logo/python.svg" alt="logo_python" width="50" height="50" style="margin-right: 120px;">
-  <img src="img/logo/istqb.png" alt="logo_istqb" width="70" height="70" style="margin-right: 120px;">
+  <img src="img/logo/selenium.svg" alt="logo_selenium" width="50px" height="50px" style="margin-right: 30px;">
+  <img src="img/logo/rfw.png" alt="logo_rfw" width="50" height="50" style="margin-right: 30px;">
+  <img src="img/logo/playwright.png" alt="logo_playwright" width="50" height="50" style="margin-right: 30px;">
+  <img src="img/logo/postman.svg" alt="logo_postman" width="50" height="50" style="margin-right: 30px;">
+  <img src="img/logo/mysql.png" alt="logo_mysql" width="70" height="50" style="margin-right: 30px;">
+  <img src="img/logo/python.svg" alt="logo_python" width="50" height="50" style="margin-right: 30px;">
+  <img src="img/logo/istqb.png" alt="logo_istqb" width="70" height="70" style="margin-right: 30px;">
 </div>
 
 

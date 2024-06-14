@@ -10,4 +10,4 @@
 - [SQL](https://drive.google.com/file/d/12-zP2XKU0nRkyStuPJ608osIeyABo8W5/view?usp=drive_link)
 - [Python 3](https://drive.google.com/file/d/1-pTOImTAagJO1Ye4c11qVzZKhDauDIAS/view?usp=drive_link)
 - [Project Management foundation](https://drive.google.com/file/d/1hcnSQ79xrFDWsLeA7BuwJZvPUa8jNZEq/view?usp=drive_link)
-
+- [Course Software Testing](https://drive.google.com/file/d/14dgOXwl8qvjU9A4Vt5MuGpJu4GTSKxrn/view?usp=drive_link)

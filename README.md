@@ -21,9 +21,18 @@ Here is a short list of my skills: <br>
 [Download my resume](CV_Lashin_Tester_eng.pdf) 
 
 ### Examples of My Work
-Due to commercial restrictions on my projects, I have used open sources as a basis for my work examples:
+Since I cannot show real projects (due to the employer’s ban), I will show my skills using the example of the “Web Shop” training site.
 
-- [Project: Web Shop](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html): The example of UI tests via Robot Framework.
+Artefacts can be found on Google Drive.
+
+- <a href="https://docs.google.com/document/d/1mu7r23lQwvueH1c_ltrmVmpEzFx3lkqlwZ1kSe0A0x4/edit?usp=drive_link" target="_blank">Test Plan</a>
+- <a href="https://docs.google.com/spreadsheets/d/1f4Q8VN6Gufj0R72tmPBWx7tXoL7sAcTbXJKIx3ZEtRk/edit?usp=drive_link" target="_blank">User Stories</a>
+- <a href="https://docs.google.com/spreadsheets/d/1bLJAJp9h3iQc03_BMJ5PXBq2RVoE54kseyUYoxY_feQ/edit?usp=drive_link" target="_blank">Checklists and Trace Matrix</a>
+
+![Test Report](https://drive.google.com/uc?export=view&id=1Hw8Sw07K0l8vCCZizSgHNxVGx3jD0YrK)
+
+The project itself and its page are here:
+- [The project itself and its page are here] (https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html): The example of UI tests via Robot Framework.
 - [Example Project 2](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html): The example of UI tests via Selenium.
 - [Example Project 3](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html): The example of UI tests via Playwright.
 - [Example Project 4](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html): The examples of API-test en scripts via Postman.

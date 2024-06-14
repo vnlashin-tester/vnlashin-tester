@@ -21,7 +21,7 @@ Here is a short list of my skills: <br>
 [Download my resume](CV_Lashin_Tester_eng.pdf) 
 
 ### Examples of My Work
-Since I cannot show real projects (due to the employer’s ban), I will show my skills using the example of the “Web Shop” training site.
+Since I cannot show real projects (due to an NDA), I will show my skills using the example of the “Web Shop” training site.
 
 Artefacts can be found on Google Drive.
 

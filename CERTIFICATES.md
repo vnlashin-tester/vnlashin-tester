@@ -1,6 +1,6 @@
 ## My Certificates
 
-- [ISTQB Certified Tester](#)
+- [ISTQB Certified Tester](https://drive.google.com/file/d/1vadCUeR37TkeaswSogHLLzD3EIIab6Yp/view?usp=drive_link)
 - [ISTQB Agile Tester](#)
 - [ISTQB Usability Tester](#)
 - [A4Q Selenium 4](#)

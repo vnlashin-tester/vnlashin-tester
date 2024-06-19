@@ -34,7 +34,7 @@ The project itself and its page are here:
 - [Page project via Robot Framework](https://github.com/vnlashin-tester/RFW_Polteq_WebShop_Lashin)
 - [Page project via Selenium + PyTest](https://github.com/vnlashin-tester/Selenium_Polteq_WebShop_Lashin)
 - [Example Project 3](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html): The example of UI tests via Playwright.
-- [Example Project 4](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html): The examples of API-test en scripts via Postman.
+- [Postman_examples](https://vnlashin-tester.github.io/vnlashin-tester/postman_portfolio): The examples of API-test en scripts via Postman.
 - [Example Project 4](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html): The examples of SQL-tests via MySQL.
 
 ### I was certified by ISTQB and I also have several other certificates:

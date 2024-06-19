@@ -29,6 +29,7 @@ Artefacts can be found on Google Drive.
 - <a href="https://docs.google.com/spreadsheets/d/1f4Q8VN6Gufj0R72tmPBWx7tXoL7sAcTbXJKIx3ZEtRk/edit?usp=sharing" target="_blank">User Stories</a>
 - <a href="https://docs.google.com/spreadsheets/d/1bLJAJp9h3iQc03_BMJ5PXBq2RVoE54kseyUYoxY_feQ/edit?usp=sharing" target="_blank">Checklists and Trace Matrix</a>
 - <a href="https://github.com/vnlashin-tester/RFW_Polteq_WebShop_Lashin/Mind_Map/accurate_test_shop_markmap.md" target="_blank">Mind_Map</a>
+[Посмотреть схему сайта](https://github.com/vnlashin-tester/RFW_Polteq_WebShop_Lashin/blob/main/Mind_Map/accurate_test_shop_markmap.md)
 
 The project itself and its page are here:
 

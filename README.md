@@ -22,6 +22,9 @@ Here is a short list of my skills: <br>
 
 ### Examples of My Work
 Since I cannot show real projects (due to an NDA), I will show my skills using the example of the “Web Shop” training site.
+1. Project #1 (manual testing with artefacts, photos)
+2. Project #2 (manual + autotest (UI) with helo of  <img src="img/logo/rfw.png" alt="logo_rfw" width="50" height="50" style="margin-right: 30px;"> and <img src="img/logo/selenium.svg" alt="logo_selenium" width="50px" height="50px" style="margin-right: 30px;">
+   
 
 Artefacts can be found on Google Drive.
 

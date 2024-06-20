@@ -1,5 +1,6 @@
 # <span style="font-size: 30px;">Hi! My name is Vladimir</span>
 
+<img src="" alt="Vladimir's Photo" width="200" height="200" align="right" style="border-radius: 50%; margin: 20px;">
 ---
 
 ## <span style="font-size: 25px;">About Me</span>

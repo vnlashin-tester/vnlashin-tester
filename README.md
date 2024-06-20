@@ -27,7 +27,7 @@ Here is a short list of my skills:
 ---
 
 ### <span style="font-size: 22px;">Examples of My Work</span>
-Since I cannot show real projects (due to an NDA), I will show my skills using the example of the “Web Shop” training site.
+Since I can’t show real projects (due to NDA), I will show my skills using the example of open sites.
 
 #### <span style="font-size: 20px;">Artefacts on Google Drive:</span>
 - <a href="https://docs.google.com/document/d/1mu7r23lQwvueH1c_ltrmVmpEzFx3lkqlwZ1kSe0A0x4/edit?usp=sharing" target="_blank">Test Plan</a>
@@ -37,9 +37,9 @@ Since I cannot show real projects (due to an NDA), I will show my skills using t
 
 #### <span style="font-size: 20px;">Project Pages:</span>
 - [Manual Test Project #1 with Artefacts and Photos](https://github.com/vnlashin-tester/IND_project) 
-- [Project #2 via Robot Framework](https://github.com/vnlashin-tester/RFW_Polteq_WebShop_Lashin)
-- [Project #2 via Selenium + PyTest](https://github.com/vnlashin-tester/Selenium_Polteq_WebShop_Lashin)
-- [Project #3 via Postman](https://github.com/vnlashin-tester/postman_portfolio): Examples of API tests and scripts via Postman.
+- [Project #2 Web Shop Site](https://github.com/vnlashin-tester/RFW_Polteq_WebShop_Lashin): Robot Framework project
+- [Project #2 Web Shop Site](https://github.com/vnlashin-tester/Selenium_Polteq_WebShop_Lashin): Selenium project
+- [Project #3 API site](https://github.com/vnlashin-tester/postman_portfolio): Postman project
 - [Example Project 3](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html): Examples of UI tests via Playwright.
 - [Example Project 4](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html): Examples of SQL tests via MySQL.
 

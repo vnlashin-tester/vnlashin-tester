@@ -22,9 +22,7 @@ Here is a short list of my skills: <br>
 
 ### Examples of My Work
 Since I cannot show real projects (due to an NDA), I will show my skills using the example of the “Web Shop” training site.
-1. Project #1 (manual testing with artefacts, photos)
-2. Project #2 (manual + autotest (UI) with helo of  <img src="img/logo/rfw.png" alt="logo_rfw" width="50" height="50" style="margin-right: 30px;"> and <img src="img/logo/selenium.svg" alt="logo_selenium" width="50px" height="50px" style="margin-right: 30px;">
-   
+
 
 Artefacts can be found on Google Drive.
 
@@ -34,10 +32,10 @@ Artefacts can be found on Google Drive.
 - <a href="https://vnlashin-tester.github.io/Mind_Map/markmap.html" target="_blank">Mind_Map</a> 
 
 The project itself and its page are here:
-
-- [Page project via Robot Framework](https://github.com/vnlashin-tester/RFW_Polteq_WebShop_Lashin)
-- [Page project via Selenium + PyTest](https://github.com/vnlashin-tester/Selenium_Polteq_WebShop_Lashin)
-- [Postman_examples](https://github.com/vnlashin-tester/postman_portfolio): The examples of API-test en scripts via Postman.
+- [Page manual test project #1 with artefacts and photos](https://github.com/vnlashin-tester/IND_project) 
+- [Page project #2 via Robot Framework](https://github.com/vnlashin-tester/RFW_Polteq_WebShop_Lashin)
+- [Page project #2 via Selenium + PyTest](https://github.com/vnlashin-tester/Selenium_Polteq_WebShop_Lashin)
+- [Page project #3 via Postman](https://github.com/vnlashin-tester/postman_portfolio): The examples of API-test en scripts via Postman.
 - [Example Project 3](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html): The example of UI tests via Playwright.
 - [Example Project 4](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html): The examples of SQL-tests via MySQL.
 

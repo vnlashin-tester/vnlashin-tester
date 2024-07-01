@@ -39,7 +39,7 @@ Since I can’t show real projects (due to NDA), I will show my skills using the
 #### <span style="font-size: 20px;">Project Pages:</span>
 - [Project #1 State Website](https://github.com/vnlashin-tester/IND_project): Manual testing with artefacts and photos. 
 - [Project #2 Web Shop Site](https://github.com/vnlashin-tester/RFW_Polteq_WebShop_Lashin): Robot Framework project.
-- [Project #2 Web Shop Site](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html): Selenium project.
+- [Project #2 Web Shop Site](https://github.com/vnlashin-tester/Selenium_Polteq_WebShop_Lashin): Selenium project.
 - [Project #2 Web Shop Site](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html): Playwright project (not available yet).
 - [Project #3 API site](https://github.com/vnlashin-tester/postman_portfolio): Postman project.
 - [Project #4 SQL Testing](https://vnlashin-tester.github.io/vnlashin-tester/under_construction.html): Examples of SQL tests via MySQL (not available yet).

@@ -38,7 +38,7 @@ Since I can’t show real projects (due to NDA), I will show my skills using the
 - <a href="https://docs.google.com/spreadsheets/d/1f4Q8VN6Gufj0R72tmPBWx7tXoL7sAcTbXJKIx3ZEtRk/edit?usp=sharing" target="_blank">User Stories</a>
 - <a href="https://docs.google.com/spreadsheets/d/1bLJAJp9h3iQc03_BMJ5PXBq2RVoE54kseyUYoxY_feQ/edit?usp=sharing" target="_blank">Checklists and Trace Matrix</a>
 - <a href="https://vnlashin-tester.github.io/Mind_Map/markmap.html" target="_blank">Mind Map</a>
-
+---
 #### <span style="font-size: 20px;">Project Pages:</span>
 - [Project #1 State Website](https://github.com/vnlashin-tester/IND_project): Manual testing with artefacts and photos. 
 - [Project #2 Web Shop Site](https://github.com/vnlashin-tester/RFW_Polteq_WebShop_Lashin): Robot Framework project.

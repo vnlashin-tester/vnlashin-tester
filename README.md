@@ -9,16 +9,15 @@ I specialize in ensuring the quality and reliability of software products throug
 Here is a short list of my skills:
 
 ### <span style="font-size: 22px;">Skills</span>
-- *Functional testing*
-- *Integration and system testing*
-- *Regression testing with writing autotests (Robot Framework, Selenium, Playwright)*
-- *API testing (Postman, SOAP UI)*
-- *SQL testing (MySQL)*
-- *Usability testing*
-- *ERP testing*
-- *Acceptance testing*
-- *Writing test artefacts*
-- *Writing and testing user scripts*
+- *Manual Testing*
+- *Automated Testing (Selenium, Robot Framework, Playwright)*
+- *API Testing (Postman, SOAP UI)*
+- *SQL Testing (MySQL)*
+- *Functional and Exploratory Testing*
+- *Integration and System Testing*
+- *Regression Testing with Automated Tests*
+- *Writing Test Artifacts and Documentation*
+- *Usability and ERP Testing*
 
 ---
 
